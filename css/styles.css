@@ -125,7 +125,7 @@ body {
   padding: 200px 0;
   background-color: var(--second-background-color);
   color: var(--cap-text-color);
-  background-image: var(--gradient), url(/image/fonimage.jpg);
+  background-image: var(--gradient), url(../image/fonimage.jpg);
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: contain;
